@@ -62,4 +62,4 @@ This project demonstrates how data analysis can be used to extract meaningful in
 
 ## Author
 
-Adarsh
+Adarsh Sanjeet Kumar Singh
