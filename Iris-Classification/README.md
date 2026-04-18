@@ -41,3 +41,6 @@ The model achieved high accuracy on the test data and performed well across all 
 
 This project helped me understand the complete machine learning workflow including data preprocessing, model training, and evaluation.
 
+## Author
+
+Adarsh Sanjeet Kumar Singh
